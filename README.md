@@ -1,0 +1,2 @@
+A website that lets users upload images; stores the uploaded images as blob data in a remote database. User can view uploaded images thorugh any device with the account. Some uploaded images can be selected, re-ordered using clean UI to make a video with customisation: user can select the duration, transition effects and audio and quality of the video. The video can be downloaded. 
+ISS Project - 2024.
